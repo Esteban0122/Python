@@ -65,7 +65,7 @@
 
 letra = input('Introduce una letra: ').lower()
 if len(letra) > 1:
-    print('Error!! solo introduzca una letra')
+    print('Error!! introduzca solo una letra')
 elif letra == 'a' or letra == 'e' or letra == 'i' \
  or letra == 'o' or letra =='u':
     print('Es una vocal')
