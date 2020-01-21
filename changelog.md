@@ -11,3 +11,33 @@
 ## Version 1.0.2
 - Cambio de letras a mayúscula o minúscula con la funcion lower y upper.
 - Formas diferentes de usar el la función print.
+
+## Version 1.0.3
+- Se utilizó el bucle indeterminado while y como aplicación se calculó \
+ el factorial de un numero.
+- Se usó la función Range y sus diferentes impresiones junto a aun bucle\
+ determinado.
+- Se usó el bucle determinado for.
+- Se presentaron algunas colecciones y lista, ademas de sus diferentes\
+ funciones que modifican dicha lista.
+
+ ## Version 1.0.4
+ - Se está haciendo una revisión del bucle indeterminado while y tomando \
+ como ejemplo el factorial de un numero con todas sus restricciones.
+ - Se está revisando los polimorfismos del la funcion range y la función print.
+ - Se estan presentando colecciones.
+ - Se estan presentando las Listas que es un tipo de colecciones donde \
+ se comporta como un análogo a un arreglo con la particularidad de que admiten\
+ cualquier tipo de dato como los enteros, float, string, booleanos, otras listas, etc.
+ - Se vio todas las formas para recorrer una lista, ademas como agregar elementos \
+ con append y quitar con la funcion pop.
+ - Se revisó las tuplas, son estaticas
+ - Se revisó los conjuntos, son desordenados, no se puede tener un duplicados de un \
+ mismo elemento.
+ - Se realizaron operaciones con conjuntos.
+ - Se revisó los diccionarios, son aquellos que guardan significados o valores entre\
+ llaves.
+ - Se enumera las llaves de un diccionario.
+
+ ## Version 1.0.5 
+ - Se corrigió los errores
