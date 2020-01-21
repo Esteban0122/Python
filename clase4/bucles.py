@@ -1,15 +1,15 @@
 #bucles
-# while 6 > 5:
-  #  print('Hello world')
-#num= int(input('Ingresa un numero entero para calcular\
- #   su factorial: '))
-#factorial = num
-#aux = num
-#while num > 1:
- #   num -= 1
-  #  factorial = factorial*num
+ #while 6 > 5:
+#    print('Hello world')
+num= int(input('Ingresa un numero entero para calcular\
+    su factorial: '))
+factorial = num
+aux = num
+while num > 1:
+    num -= 1
+    factorial = factorial*num
 
-#print(f'{aux}! = {factorial}')
+print(f'{aux}! = {factorial}')
 
 #while True:
  #   num = int(input("Ingresa un numero entero para calcular su factorial: "))
