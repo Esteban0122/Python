@@ -41,3 +41,16 @@
 
  ## Version 1.0.5 
  - Se corrigió los errores
+
+ ## Version 1.0.6
+ - Repaso de Tuplas, Conjuntos y Diccionarios.
+ - Creamos una agenda como diccionario.
+ - En los Conjuntos solo se pueden guardar elementos, no tuplas no conjuntos, no diccionarios.
+ - Los diccionarios tienen una relacion clave: valor que pueden ser cualquier objeto, es decir
+ pueden ser enteros, float, tuplas, listas, conjuntos, string, etc.
+ - Se definen las funciones, las variables tienen alcance local.
+ - Se resaltó la importancia de paso por valor y por referencia.
+
+ ## Version 1.0.7
+ - Se ha hecho una introduccion a la Recursividad.
+ - Hemos usado Turtle para vizualizar la recursividad.
