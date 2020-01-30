@@ -60,3 +60,12 @@
  - Manejo de Try, Except y Finally.
  -Implementar un algoritmo  que calcule el área de un triángulo
   usando Herón.
+
+  ## Version 1.0.9
+  - Programación orientado a objetos.
+  - Definicion de clase y objetos.
+  - Uso del Self para apuntar a un espacio de memoria.
+  - Uso de Atributos y Metodos.
+  - Ejemplo del Carro.
+  - Implementacion de nuestra agenda **agenda.py** con clases.
+  - Paso por Referencia y por valor.
