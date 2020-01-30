@@ -54,3 +54,9 @@
  ## Version 1.0.7
  - Se ha hecho una introduccion a la Recursividad.
  - Hemos usado Turtle para vizualizar la recursividad.
+
+ ## Version 1.0.8
+ - Manejo de errores.
+ - Manejo de Try, Except y Finally.
+ -Implementar un algoritmo  que calcule el área de un triángulo
+  usando Herón.
